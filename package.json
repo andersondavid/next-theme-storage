@@ -1,0 +1,17 @@
+{
+  "name": "next-theme-storage",
+  "version": "1.0.0",
+  "description": "Example of switch theme with Styled Components and localStorage",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "andersondavid",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.1.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^5.3.5"
+  }
+}
